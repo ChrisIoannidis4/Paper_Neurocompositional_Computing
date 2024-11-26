@@ -30,8 +30,8 @@ In fact, combining the fluidity of neural networks with the structured logic of 
 systems, neurocompositional systems aim to achieve more robust learning. However, this is 
 not the first time a new approach is introduced that has sparked a lot of hope and ambition 
 in the AI research community. So is the attention and interest in this approach justified, or 
-will it remain a concept that is useful in the narrow AI [1]– or, task-specific- domain?  
-Motivated by its foundations, the problems it attempts to solve, as well as the first actual 
+will it remain a concept that is useful in the narrow AI [1]– or, task-specific- domain? Motivated 
+by its foundations, the problems it attempts to solve, as well as the first actual 
 implementations – the target is to advance to the third generation of these systems in the 
 time of writing – that have been very successful as will be discussed later, I firmly believe 
 not only that there is more than enough merit to pursuing further development and 
