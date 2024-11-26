@@ -1,12 +1,12 @@
-*Could Neurocompositional Computing be the first actual catalyst in our road to human-level machine intelligence?
-Christos Ioannidis (c.ioannidis@students.uu.nl) 
-MSc Artificial Intelligence Student, Utrecht University 
-BSc, MEng Electrical and Computer Engineer, Aristotle University of Thessaloniki 
-Philosophy of AI - Utrecht University 
-Supervisor: Dr. Emily Sullivan*
+**Could Neurocompositional Computing be the first actual catalyst in our road to human-level machine intelligence?\\
+Christos Ioannidis (c.ioannidis@students.uu.nl) \\
+MSc Artificial Intelligence Student, Utrecht University\\ 
+BSc, MEng Electrical and Computer Engineer, Aristotle University of Thessaloniki\\ 
+Philosophy of AI - Utrecht University \\
+Supervisor: Dr. Emily Sullivan**\\
  
  
-*1. Introduction*
+**1. Introduction**\\
 There have been some critical dilemmas surrounding AI research, and the debate 
 about the method that will enable us to approach human-level machine intelligence, or 
 strong AI [1], has probably been one of the most crucial and controversial ones. Two 
