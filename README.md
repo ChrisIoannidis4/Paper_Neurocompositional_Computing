@@ -6,7 +6,8 @@ Philosophy of AI - Utrecht University \\
 Supervisor: Dr. Emily Sullivan**\\
  
  
-**1. Introduction** \\
+**1. Introduction** 
+
 There have been some critical dilemmas surrounding AI research, and the debate 
 about the method that will enable us to approach human-level machine intelligence, or 
 strong AI [1], has probably been one of the most crucial and controversial ones. Two 
