@@ -6,7 +6,7 @@ Philosophy of AI - Utrecht University \\
 Supervisor: Dr. Emily Sullivan**\\
  
  
-**1. Introduction**\\
+**1. Introduction** \\
 There have been some critical dilemmas surrounding AI research, and the debate 
 about the method that will enable us to approach human-level machine intelligence, or 
 strong AI [1], has probably been one of the most crucial and controversial ones. Two 
@@ -21,6 +21,7 @@ the prospects of reaching strong AI systems with either of them; or more concise
 them alone. As a consequence, the potential of hybrid models, that try to combine features 
 and architecture from both, has been researched, with Neurocompositional Computing [4] 
 being a particularly intriguing idea with encouraging early results. 
+
 Neurocompositional Computing, originally introduced as a concept from Cognitive 
 Psychology, has led to a more holistic form of artificial intelligence that tries to mirror the 
 duality of human cognition, described by the principles of Continuity and Compositionality. 
@@ -37,6 +38,7 @@ progress in approaches in the Neurocompositional Computing domain for the purpos
 reaching strong AI, but also that this hybrid approach is the first method with such a 
 potential, as the traditional methods have hit what I consider to be an insurmountable 
 roadblock.  
+
 To present the underlying reasons for this opinion, this paper will first describe in 
 section 2 what we could expect from a strong AI system and the reasons why approaching it 
 with the traditional methods seems all the more unlikely, before giving a brief description of 
